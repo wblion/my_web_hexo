@@ -1,5 +1,5 @@
 ---
-title: 【持续更新】魔镜魔镜告诉我谁是世界上最美的人 树莓派diy魔镜第一弹
+title: 【持续更新原创】魔镜魔镜告诉我谁是世界上最美的人 树莓派diy魔镜第一弹
 date: 2018-10-24 11:19:10
 tags:
 ---
@@ -90,6 +90,6 @@ sd卡（我使用的是32g的因为要装很多库，尽量大一些的）
 
 http://www.365yg.com/a6614395796592787982/#mid=51880178041
 
-待续。。。。
+待续。。。。 转载请注明出处。
 
 <iframe src="https://github.com/wblion/wblion.github.io/donate_page/simple/" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;"  frameborder="0" scrolling="no"></iframe>
