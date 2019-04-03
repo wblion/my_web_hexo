@@ -92,4 +92,8 @@ http://www.365yg.com/a6614395796592787982/#mid=51880178041
 
 待续。。。。 转载请注明出处。
 
+共享交流群 14580005 一起用脑洞改变世界。相互研究帮助。 这是为了保证群成员质量和活性。需要收费3元请大家理解。
+
+
+
 <iframe src="https://github.com/wblion/wblion.github.io/donate_page/simple/" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;"  frameborder="0" scrolling="no"></iframe>
